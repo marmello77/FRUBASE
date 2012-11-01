@@ -328,9 +328,14 @@ version 4.0 - A major update to the dataset, with revision of the taxonomic
               families of flowering plants: APG II. Bot. J. Linnean Soc. 141: 
               399-436.
               Revision completed 25 November 2007.
-version 3.0 - A major update to the dataset, adding new variables such as fruit color, growth habit, etc. Major addition of species. Started revision 12 Feb 2003.
-version 2.0 - 12 January 1995. Added the SUMMARY file and minor changes to this file.
-version 1.9 - 4 May 1994. Prepared the first version of this package. Recoding of the reference numbers to accomodate the inclusion of the appendix.
+version 3.0 - A major update to the dataset, adding new variables such as 
+              fruit color, growth habit, etc. Major addition of species. 
+              Started revision 12 Feb 2003.
+version 2.0 - 12 January 1995. Added the SUMMARY file and minor changes to 
+              this file.
+version 1.9 - 4 May 1994. Prepared the first version of this package. Recoding 
+              of the reference numbers to accomodate the inclusion of the 
+              appendix.
 version 1.5 - 23 December 1991. Added many species with information on fruit
               size only and completed the literature survey up to 1991.
 version 1.- 16 April 1983. Only 219 species.
