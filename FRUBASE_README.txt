@@ -1,6 +1,6 @@
-******************************** FRUBASE PACKAGE ******************************
+******************************** FRUBASE PACKAGE *****************************
 
-                              VERSION 4.0. DEC 2007.
+                              VERSION 5.0. DEC 2012.
 
 THE FRUBASE PACKAGE ACCOMPANIES:
 
@@ -27,11 +27,11 @@ plants. Cambridge University Press, Cambridge, UK.
 
 Please, contact me if you have suggestions, find errors, inconsistencies, or
 any other bug in the file. As well, please let me know about your uses of this
-data and send manuscripts and reprints when available. I´ll be happy to help
+data and send manuscripts and reprints when available. I¬¥ll be happy to help
 you in any case, as far as I can.
 
 I am periodically updating this data base since I started writing my PhD 
-thesis more than 20 years ago. Thus, I´d like to receive suggestions for new
+thesis more than 20 years ago. Thus, I¬¥d like to receive suggestions for new
 data sources and provide updated versions to those interested.
 
 Please, use these data files for peaceful purposes, enjoy doing science with
@@ -41,7 +41,7 @@ with plant-frugivore interactions and are embedded in papers reporting very
 interesting results, descriptions and discussions on these interactions; 
 please read them.
 
-********************************** CONTENTS ***********************************
+********************************** CONTENTS **********************************
 All files are plain ASCII text files, with the exception of SUMMARY and 
 FRUBASE.xls.
 Those with data have TABs as their field delimiters so they can be readily
@@ -66,7 +66,7 @@ worksheets).
 5. FRUBASE.xls - The data file itself, now in Excel format for spraedsheets. 
    See (4).
 
-*******************************************************************************
+******************************************************************************
 
 Variable names and descriptions in FRUBASE
 
@@ -121,7 +121,7 @@ Variable names and descriptions in FRUBASE
       ASH       Proportion of minerals (per g dry pulp)
       FIB       Proportion of acid-detergent fiber (per g dry pulp)
 
-*******************************************************************************
+******************************************************************************
 
 REFERENCE LIST.
 
@@ -159,7 +159,7 @@ mammals in the evergreen forests of Upland Malawi. Rev. Ecol. (Terre Vie) 43:
 251-286.
 
 9. Erard, C., M. Thery and D. Sabatier. 1989. Regime alimentaire de Rupicola
-rupicola (Cotingidae) en Guyane française. Relations avec la frugivorie et la
+rupicola (Cotingidae) en Guyane fran√ßaise. Relations avec la frugivorie et la
 zoochorie. Rev. Ecol. (Terre Vie) 44: 47-74.
 
 10. Eriksson, O. and J. Ehrlen. 1991. Phenological variation in fruit
@@ -188,8 +188,8 @@ leendertziae. S. Afr. J. Bot. 2: 42-45.
 17. Herrera, C.M. 1987. Vertebrate-dispersed plants of the iberian peninsula: a
 study of fruit characteristics. Ecol. Monogr. 57: 305-331.
 
-18. Hladik, A. and C.M. Hladik. 1969. Rapports trophiques entre végetation et
-primates dans la fôret de Barro Colorado (Panama). Terre Vie 23: 25-117.
+18. Hladik, A. and C.M. Hladik. 1969. Rapports trophiques entre v√©getation et
+primates dans la f√¥ret de Barro Colorado (Panama). Terre Vie 23: 25-117.
 
 19. Howe, H.F. 1981. Dispersal of neotropical nutmeg (Virola sebifera) by 
 birds. Auk 98: 88-98.
@@ -239,11 +239,11 @@ tropical trees. Phil. Trans. R. Soc. Lond. B 316: 303-333.
 33. Piper, J.K. 1986. Seasonality of fruit characters and seed removal by 
 birds. Oikos 46: 303-310.
 
-34. Restrepo, C. 1987. Aspectos ecológicos de la diseminación de cinco especies
-de muérdagos por aves. Humboldtia 1: 65-116.
+34. Restrepo, C. 1987. Aspectos ecol√≥gicos de la diseminaci√≥n de cinco especies
+de mu√©rdagos por aves. Humboldtia 1: 65-116.
 
-35. Rogers, M.E., F. Maisels, E.A. Williamson, M. Fernández and C.E.G. Tutin.
-1990. Gorilla diet in the Lopé Reserve, Gabon: a nutritional analysis. 
+35. Rogers, M.E., F. Maisels, E.A. Williamson, M. Fern√°ndez and C.E.G. Tutin.
+1990. Gorilla diet in the Lop√© Reserve, Gabon: a nutritional analysis. 
 Oecologia (Berl.) 84: 326-339.
 
 36. Sherburne, J.A. 1972. Effects of seasonal changes in the abundance and
@@ -293,13 +293,13 @@ Oecologia (Berl.) 80: 381-389.
 
 50. Pedro Jordano, unpublished data.
 
-********************************* CONTACTING **********************************
+********************************* CONTACTING *********************************
 Contact me at:
 
 Pedro Jordano
-Departamento de Biología Evolutiva
-Estación Biologica de Donana, CSIC
-Pabellón del Peru, Avda. M. Luisa, S/N
+Departamento de Biolog√≠a Evolutiva
+Estaci√≥n Biologica de Donana, CSIC
+Pabell√≥n del Peru, Avda. M. Luisa, S/N
 41013 Sevilla, Spain
 
 Phone: +34 95 4232340 ext 213 (voice)
@@ -307,10 +307,10 @@ Phone: +34 95 4232340 ext 213 (voice)
        +34 95 4270463 (home, voice)
        
 e-mail: jordano@ebd.csic.es
-***************************** ACKNOWLEDGEMENTS ********************************
+***************************** ACKNOWLEDGEMENTS *******************************
 This data base is the result of many hours of work compiling names and numbers 
 from a very sparse literature. I've benefited from the help of Myriam Marquez,
-Alicia Prieto and Rocío Requerey, who aided carefully with data checking 
+Alicia Prieto and Roc√≠o Requerey, who aided carefully with data checking 
 several times. Carlos M. Herrera helped with unpublished data and by providing 
 literature sources; his advice and comments were always invaluable. F.H.J. 
 Crome also provided his original data just at the start of this project. 
@@ -318,18 +318,7 @@ Computer time and facilities were kindly provided by the Centro de Informatica
 Cientifica de Andalucia. Financial support was from the Spanish Direccion 
 General de Investigacion Cientifica y Tecnica, projects PB-87-0452 and 
 PB-91-0114.
-********************************** HISTORY ************************************
-version 1.- 16 April 1983. Only 219 species.
-version 1.5 - 23 December 1991. Added many species with information on fruit
-              size only and completed the literature survey up to 1991.
-version 1.9 - 4 May 1994. Prepared the first version of this package. Recoding
-              of the reference numbers to accomodate the inclusion of the
-              appendix.
-version 2.0 - 12 January 1995. Added the SUMMARY file and minor changes to this
-              file.
-version 3.0 - A major update to the dataset, adding new variables such as fruit
-              color, growth habit, etc. Major addition of species. Started 
-              revision 12 Feb 2003.
+********************************** HISTORY ***********************************
 version 4.0 - A major update to the dataset, with revision of the taxonomic
               arrangement according to: Stevens, P. F. (2001 onwards). 
               Angiosperm Phylogeny Website. Version 8, June 2007. 
@@ -339,7 +328,13 @@ version 4.0 - A major update to the dataset, with revision of the taxonomic
               families of flowering plants: APG II. Bot. J. Linnean Soc. 141: 
               399-436.
               Revision completed 25 November 2007.
-*******************************************************************************
+version 3.0 - A major update to the dataset, adding new variables such as fruit color, growth habit, etc. Major addition of species. Started revision 12 Feb 2003.
+version 2.0 - 12 January 1995. Added the SUMMARY file and minor changes to this file.
+version 1.9 - 4 May 1994. Prepared the first version of this package. Recoding of the reference numbers to accomodate the inclusion of the appendix.
+version 1.5 - 23 December 1991. Added many species with information on fruit
+              size only and completed the literature survey up to 1991.
+version 1.- 16 April 1983. Only 219 species.
+******************************************************************************
 
 Best wishes, and happy computing!
 pedro
